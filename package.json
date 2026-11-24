@@ -1,0 +1,1 @@
+{"description":"The last text message a phone sends at one percent battery, in the voice of the dying phone itself.","license":"MIT","main":"main.ts","name":"last-text-at-one-percent","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
